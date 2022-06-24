@@ -49,5 +49,7 @@ strong {
 }
 
 .indented-heading {
+  margin-left: -32px;
+  padding: 16px 32px;
 }
 
