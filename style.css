@@ -26,6 +26,10 @@ strong {
 }
 
 .max-width-wrapper {
+  max-width: 640px;
+  min-width: 120px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .title {
